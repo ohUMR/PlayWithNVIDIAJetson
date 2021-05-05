@@ -11,7 +11,7 @@ The devices conclude: NVIDIA Jetson TX2、NVIDIA AGX Xaiver and LI-IMX274-MIPI c
 
 主要的设备包括：NVIDIA Jetson TX2、NVIDIA AGX Xaiver和LI-IMX274-MIPI摄像头
 
-## 1. Intalling Jetpack without 6 cameras
+## [1. Intalling Jetpack without 6 cameras](https://github.com/ohUMR/PlayWithNVIDIAJetson/blob/main/1.%20Intalling%20Jetpack%20without%206%20cameras.md)
 ### 1.1 What to do with Jetson device in the first time.
 ### 1.2 Choose which version of Jetpack
 ### 1.3 Some tips about SDK manager.
